@@ -35,6 +35,8 @@ maven -- maven3
 
 Sonarqube scanner is a tool ( installed via jenkins plugin, tool ) used to generate reports -- these reports are then published on sonar server ( configured @ 9000 plugin ). So we need to establish connection between them 
 On Sonar server -- administrator -- generate a token -- store in jenkins credentials as secret text 
+
 Jenkins -- system ( configure the sonar server details ) 
+<img width="998" height="649" alt="image" src="https://github.com/user-attachments/assets/59c0864e-397b-49bc-a52a-26428a822c2e" />
 
 
