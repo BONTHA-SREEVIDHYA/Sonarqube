@@ -107,7 +107,7 @@ pipeline {
 <img width="1872" height="1018" alt="image" src="https://github.com/user-attachments/assets/b44b1232-8205-4298-8dfb-6d250b1b8228" />
 
 for a nodejs Application 
-
+``` groovy
 pipeline {
     agent any
     tools {
@@ -146,7 +146,7 @@ pipeline {
         }
     }
 }
-
+```
 
 
 
